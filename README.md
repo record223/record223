@@ -2,8 +2,9 @@
 * 🔧 Backend: **Laravel** - additionals NestJS, Python, Java - (some small API)
 * 🌐 Frontend: **Vue.js,** **TypeScript**, NuxtJS, Inertia.js
 * ⚙️ DevOps: **Docker**, CI/CD pipelines (Drone.io/GitActions)
+* ⚙️ Teamwork: Conventional commits, Commitizen comments, Code Review, SCRUM
 
-👋 About Me
+# 👋 About Me
 Hi, I'm a passionate Full Stack Developer with expertise in building scalable and maintainable web applications. I specialize in Laravel and Vue.js, but I also work with NestJS, Python, and Java. Beyond development, I'm experienced in DevOps practices, including containerization with Docker and setting up robust CI/CD pipelines to streamline deployments.
 
 Over the years, I've gained valuable experience as a Tech Lead, where I have:
